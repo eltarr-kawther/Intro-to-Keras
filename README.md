@@ -1,1 +1,1 @@
-# Intro-to-Keras-with-breast-cancer-data
+# Intro to Keras with breast cancer data
